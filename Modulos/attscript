@@ -70,7 +70,7 @@ fun_atts () {
 
 } > /dev/null 2>&1
 
-echo -e "ㅤ🐉ㅤDRAGON VPS MANAGERㅤ🐉ㅤ" | figlet
+echo -e "ㅤ🐉ㅤ𝙁𝙉 𝙑𝙋𝙎 𝙈𝘼𝙉𝘼𝙂𝙀𝙍ㅤ🐉ㅤ" | figlet
 
 echo " "
 
