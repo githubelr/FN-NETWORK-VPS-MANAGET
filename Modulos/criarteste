@@ -62,7 +62,7 @@ chmod +x /etc/VPSManager/userteste/$nome.sh
 at -f /etc/VPSManager/userteste/$nome.sh now + $u_temp min > /dev/null 2>&1
 clear
     echo -e "\033[1;32m===================================="
-    echo -e "\033[1;32m   🐉ㅤDRAGON VPS MANAGERㅤ🐉  " 
+    echo -e "\033[1;32m   🐉ㅤ𝙁𝙉 𝙑𝙋𝙎 𝙈𝘼𝙉𝘼𝙂𝙀𝙍ㅤ🐉  " 
     echo -e "\033[1;32m===================================="
     echo ""
     echo -e "\033[1;31m◈─────⪧ IMPORTANT ⪦──────◈"
@@ -73,7 +73,7 @@ clear
     echo -e "\033[1;32m◈⪧ ⛔️ NO Carding"
     echo -e "\033[1;32m◈⪧ 🙅‍♂️ NO Torrent"
     echo -e "\033[1;32m◈⪧ ❌ NO MultiLogin"
-    echo -e "\033[1;32m◈⪧ 🤷‍♂️ NO Illegal Activities"
+    echo -e "\033[1;32m◈⪧ 🤷‍♂️ Join:- @fn_network_back"
     echo ""
     echo -e "\033[1;37m◈─────⪧ TEST SSH ACCOUNT ⪦─────◈"
     echo ""
@@ -96,7 +96,7 @@ clear
     echo -e "\033[1;32mhttp://$IP:8888/server/online"
     echo ""
     echo -e "\033[1;37m◈─────────────────────────────────◈"
-    echo -e "\033[1;37m©️ 🐉  DRAGON VPS MANAGER SCRIPT  🐉"
+    echo -e "\033[1;37m©️ 🐉  𝙁𝙉 𝙑𝙋𝙎 𝙈𝘼𝙉𝘼𝙂𝙀𝙍 𝙎𝘾𝙍𝙄𝙋𝙏  🐉"
     echo -e "\033[1;37m◈─────────────────────────────────◈"
     echo ""
     echo -e "\033[1;33mAfter the defined time of the user \033[1;32m$nome"
